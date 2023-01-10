@@ -1,0 +1,15 @@
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\bin\Debug\net6.0\exercicioEnum.exe
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\bin\Debug\net6.0\exercicioEnum.deps.json
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\bin\Debug\net6.0\exercicioEnum.runtimeconfig.json
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\bin\Debug\net6.0\exercicioEnum.dll
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\bin\Debug\net6.0\exercicioEnum.pdb
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.csproj.AssemblyReference.cache
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.AssemblyInfoInputs.cache
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.AssemblyInfo.cs
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.dll
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\refint\exercicioEnum.dll
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.pdb
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\exercicioEnum.genruntimeconfig.cache
+C:\Users\brunu\Desktop\c#nelio\enumeracoes\exercicioEnum\exercicioEnum\exercicioEnum\obj\Debug\net6.0\ref\exercicioEnum.dll
